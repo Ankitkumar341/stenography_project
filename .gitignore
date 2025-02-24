@@ -1,0 +1,11 @@
+
+src/licenses
+src/__pycache__
+src/.pyarmor_config
+src/login_manager.py
+src/main.py
+src/main.spec
+src/steganography.py
+src/Venom.png
+src/build
+
