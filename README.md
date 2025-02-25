@@ -16,6 +16,7 @@ The following packages are used in this project:
 2. Type Secret Messege  &  Select the Image
 3. Tab press Encyrpt and showing Ecrypted Massege and You got New File Of Image 
 4. (decryption data ) enter password and select the image and press decrypt
+![Screenshot 2025-02-22 235927](https://github.com/user-attachments/assets/804182ea-f34b-4942-b778-77ed702211d3)
 
 
 
