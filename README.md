@@ -1,3 +1,4 @@
+
 # Steganography Tool
 
 This project is a Python-based steganography tool that allows you to hide and retrieve information within images. It includes various functionalities such as encryption and decryption of project files.
@@ -12,7 +13,7 @@ The following packages are used in this project:
 - `Pillow`: A Python Imaging Library (PIL) fork used for handling image processing tasks, such as embedding and extracting hidden data from images
 
 ## Usses 
-1. (Encryption data ) Type your Password 
+1. (Encryption data ) open main.exe Type your Password 
 2. Type Secret Messege  &  Select the Image
 3. Tab press Encyrpt and showing Ecrypted Massege and You got New File Of Image 
 4. (decryption data ) enter password and select the image and press decrypt
